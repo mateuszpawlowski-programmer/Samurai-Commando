@@ -1,5 +1,11 @@
 ![alt text](https://github.com/mateuszpawlowski-programmer/Samurai-Commando/blob/main/sc_02.png?raw=true)
 ![alt text](https://github.com/mateuszpawlowski-programmer/Samurai-Commando/blob/main/sc_03.png?raw=true)
+![alt text](https://github.com/mateuszpawlowski-programmer/Samurai-Commando/blob/main/sc_04.png?raw=true)
+![alt text](https://github.com/mateuszpawlowski-programmer/Samurai-Commando/blob/main/sc_05.png?raw=true)
+![alt text](https://github.com/mateuszpawlowski-programmer/Samurai-Commando/blob/main/sc_06.png?raw=true)
+![alt text](https://github.com/mateuszpawlowski-programmer/Samurai-Commando/blob/main/sc_07.png?raw=true)
+![alt text](https://github.com/mateuszpawlowski-programmer/Samurai-Commando/blob/main/sc_08.png?raw=true)
+![alt text](https://github.com/mateuszpawlowski-programmer/Samurai-Commando/blob/main/sc_09.png?raw=true)
 
 --------------------------------------------------------------------------------------------
 |This game is free software so it means you can copy it and play it like freeware software.|
